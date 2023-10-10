@@ -13,7 +13,11 @@
 
 🙋‍♀️ Welcome to the SOLES stats group, a collaborative repository maintained by a team of researchers and educators from the School of Life and Environmental Sciences (SOLES), University of Sydney, Australia. 
 
+This organisation is a 🚧 **work in progress** 🚧. Expect lots of changes to *everything*, including our name 🤦🏻.
+
 ## Workshops
+
+Self-learning resources for all.
 
 - Introduction to R
 - RStudio
@@ -22,15 +26,24 @@
 
 ## Data
 
+Curated datasets, from our very own researchers.
+
 - Urchin respirometry ($t$-Test, ANOVA, ANCOVA)
 - Cattle feeding ($t$-Test, ANOVA)
 - Bees (GLM)
 
-## Templates (for students)
+## Templates
 
-- Thesis template
-- Report template
+All of these documents can be rendered and modified using Quarto, but MS Word versions exist (if that is your thing).
 
-## Templates (for educators)
+Students:
+
+- Thesis template (branded)
+- Report template (branded)
+- Report template (not branded)
+
+Lecturers/researchers:
+
 - Lab book (HTML, PDF)
 - Handbook (HTML, PDF)
+- Lecture slides 
