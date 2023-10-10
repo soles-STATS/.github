@@ -11,12 +11,26 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-🙋‍♀️ Welcome to SOLES Awesome, a collaborative repository maintained by a team of researchers and educators from the School of Life and Environmental Sciences (SOLES), University of Sydney, Australia. 
+🙋‍♀️ Welcome to the SOLES stats group, a collaborative repository maintained by a team of researchers and educators from the School of Life and Environmental Sciences (SOLES), University of Sydney, Australia. 
 
-**Why Awesome?** An awesome list is a list of awesome things curated by the community and is a popular way to showcase the best of *something*. In this case, we want to be the *best* source for anything statistics in SOLES.
+## Workshops
 
-## Awesome workshops
+- Introduction to R
+- RStudio
+- Visual Studio Code
+- GitHub Copilot and using it for data
 
-## Awesome data
+## Data
 
-## Awesome templates
+- Urchin respirometry ($t$-Test, ANOVA, ANCOVA)
+- Cattle feeding ($t$-Test, ANOVA)
+- Bees (GLM)
+
+## Templates (for students)
+
+- Thesis template
+- Report template
+
+## Templates (for educators)
+- Lab book (HTML, PDF)
+- Handbook (HTML, PDF)
