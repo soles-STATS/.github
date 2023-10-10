@@ -11,7 +11,9 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-🙋‍♀️ Welcome to SOLES Awesome Stats, a collaborative repository maintained by a team of researchers and educators from the School of Life and Environmental Sciences (SOLES), University of Sydney, Australia. 
+🙋‍♀️ Welcome to SOLES Awesome, a collaborative repository maintained by a team of researchers and educators from the School of Life and Environmental Sciences (SOLES), University of Sydney, Australia. 
+
+**Why Awesome?** An awesome list is a list of awesome things curated by the community and is a popular way to showcase the best of *something*. In this case, we want to be the *best* source for anything statistics in SOLES.
 
 ## Awesome workshops
 
