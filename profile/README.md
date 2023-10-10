@@ -10,3 +10,11 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+🙋‍♀️ Welcome to SOLES Awesome Stats, a collaborative repository maintained by a team of researchers and educators from the School of Life and Environmental Sciences (SOLES), University of Sydney, Australia. 
+
+## Awesome workshops
+
+## Awesome data
+
+## Awesome templates
