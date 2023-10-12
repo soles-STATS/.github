@@ -9,4 +9,11 @@ The goal of this project is to unify the teaching of statistics and mathematics 
 
 **All content is open-access under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).**
 
-More information about the project can be found in the wiki.
+More information about the project can be found in the wiki (under construction).
+
+Examples (while we work out the framework of this site):
+
+- [Live tutorials](https://github.com/januarharianto/learnr-envx) - from ENVX2001
+- Lecture slides - under construction
+- Workshop material - under construction
+- Template(s) - under construction
