@@ -12,4 +12,4 @@ This project aims to streamline the teaching of statistics and mathematics funda
 
 ### 🚧 Under development 🚧
 
-We are currently in the *early* development phase of this project which will run from 2023-2024. The pilot phase will run in 2024, and will focus on a select number of first and second year Units of Study at SOLES. For more information please check our site (also open-source!) - under construction.
+We are currently in the *early* development phase of this project which will run in 2023. The pilot phase will run in 2024, and will focus on a select number of first and second year Units of Study at SOLES. For more information please check our site (also open-source!) - under construction.
