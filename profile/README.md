@@ -5,7 +5,7 @@
 This is the SOLES open educational resources (OER) platfom on GitHub.
 
 
-This work is licensed under a
+All work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
