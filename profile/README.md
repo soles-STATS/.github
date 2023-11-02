@@ -4,6 +4,10 @@
 ## 🚧 Under construction 🚧
 This is the SOLES open educational resources (OER) platfom on GitHub.
 
+### Templates
+
+[SOLES Quarto reveal.js template](https://github.com/usyd-soles-edu/soles-revealjs)
+
 
 All work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
