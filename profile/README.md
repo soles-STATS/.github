@@ -23,7 +23,5 @@ All work is licensed under a [Creative Commons Attribution 4.0 International Lic
 
 > This work is based on resources provided for free by the University of Sydney SOLES OER repository, available under a [Creative Commons Attribution 4.0 International license](cc-by) at https://github.com/usyd-soles-edu.
 
-This can be done at the end of your document, presentation or in the footer of your website. Thank you!
-
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
