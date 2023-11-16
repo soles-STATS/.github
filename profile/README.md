@@ -3,8 +3,6 @@ This is the SOLES open educational resources (OER) platfom on GitHub, where we h
 
 ### Templates
 
-Below are various templates that can be used to create content for teaching.
-
 - [SOLES reveal.js slide template (Quarto)](https://github.com/usyd-soles-edu/soles-revealjs)
 - [SOLES assignment template (Quarto)](https://github.com/usyd-soles-edu/soles-assignment-quarto)
 - [SOLES handbook template (Quarto)](https://github.com/usyd-soles-edu/soles-handbook-quarto)
