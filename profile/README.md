@@ -1,4 +1,4 @@
-# SOLES
+# SOLES OER
 This is the SOLES open educational resources (OER) platfom on GitHub, where we host teaching and learning resources used in various Units within the School.
 
 ### Templates
