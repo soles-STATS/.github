@@ -1,19 +1,28 @@
 # SOLES
-[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
-
-## 🚧 Under construction 🚧
-This is the SOLES open educational resources (OER) platfom on GitHub.
+This is the SOLES open educational resources (OER) platfom on GitHub, where we host teaching and learning resources used in various Units within the School.
 
 ### Templates
 
-[SOLES Quarto reveal.js template](https://github.com/usyd-soles-edu/soles-revealjs)
+Below are various templates that can be used to create content for teaching.
+
+- [SOLES reveal.js slide template (Quarto)](https://github.com/usyd-soles-edu/soles-revealjs)
+- [SOLES assignment template (Quarto)](https://github.com/usyd-soles-edu/soles-assignment-quarto)
+- [SOLES handbook template (Quarto)](https://github.com/usyd-soles-edu/soles-handbook-quarto)
+
+### Data Science/Statistics
+🚧 Under construction 🚧
+
+### Mathematics
+
+🚧 Under construction 🚧
 
 
-All work is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+## Licensing and attribution
 
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+[![CC BY 4.0][cc-by-image]][cc-by]
 
-[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
-[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
-[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+All work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
+
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
