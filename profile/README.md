@@ -1,16 +1,24 @@
 # SOLES OER
 This is the SOLES open educational resources (OER) platfom on GitHub, where we host teaching and learning resources used in various Units within the School.
 
+> [!Note]
+> Resources are being developed openly and may not be complete. **Pleaase read the respository README sections to check on individual progress.**
+
 ### Templates
 
-- [SOLES reveal.js slide template (Quarto)](https://github.com/usyd-soles-edu/soles-revealjs)
-- [SOLES assignment template (Quarto)](https://github.com/usyd-soles-edu/soles-assignment-quarto)
-- [SOLES handbook template (Quarto)](https://github.com/usyd-soles-edu/soles-handbook-quarto)
+- [SOLES reveal.js slide template (Quarto)](https://github.com/usyd-soles-edu/soles-revealjs) | [Preview](https://usyd-soles-edu.github.io/soles-revealjs/#/title-slide)
+- [SOLES assignment template (Quarto)](https://github.com/usyd-soles-edu/soles-assignment-quarto) | [Preview](https://usyd-soles-edu.github.io/soles-assignment/)
+- [SOLES handbook template (Quarto)](https://github.com/usyd-soles-edu/soles-handbook-quarto) | 🚧 Under construction 🚧
 
 ### Data Science/Statistics
 🚧 Under construction 🚧
 
-### Mathematics
+- R and RStudio tutorials
+- ENVX1002
+- ENVX2001
+- BIOL2022
+
+### Mathematics (perhaps, if we get funding)
 
 🚧 Under construction 🚧
 
