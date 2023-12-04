@@ -11,11 +11,11 @@ This is the SOLES open educational resources (OER) platfom on GitHub, where we h
 - [SOLES handbook template (Quarto)](https://github.com/usyd-soles-edu/soles-handbook-quarto) | 🚧 Under construction 🚧
 
 ### Data Science/Statistics
-🚧 Under construction 🚧
+🚧 **Under construction** 🚧
 
 - R and RStudio tutorials
 - ENVX1002
-- ENVX2001
+- [ENVX2001](https://github.com/ENVX-resources) | 🚧 In progress
 - BIOL2022
 
 ### Mathematics (perhaps, if we get funding)
