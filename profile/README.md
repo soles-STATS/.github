@@ -2,7 +2,7 @@
 This is the SOLES open educational resources (OER) platfom on GitHub, where we host teaching and learning resources used in various Units within the School.
 
 > [!Note]
-> Resources are being developed openly and may not be complete. **Pleaase read the respository README sections to check on individual progress.**
+> Resources are being developed **openly** and may not be complete. **Please read the respository README sections to check on individual progress.**
 
 ### Templates
 
