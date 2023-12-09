@@ -18,10 +18,6 @@ This is the SOLES open educational resources (OER) platfom on GitHub, where we h
 - [ENVX2001](https://github.com/ENVX-resources) | 🚧 In progress
 - BIOL2022
 
-### Mathematics (perhaps, if we get funding)
-
-🚧 Under construction 🚧
-
 
 ## Licensing and attribution
 
