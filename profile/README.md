@@ -16,7 +16,12 @@ This is the SOLES open educational resources (OER) platfom on GitHub, where we h
 🚧 **Under construction** 🚧
 
 - R and RStudio tutorials
-- [ENVX1002/ENVX2001](https://github.com/ENVX-resources) | 🚧 In progress
+- Stats guides starting with:
+  - the Central Limit theorem
+  - summary statistics
+  - $t$-tests
+  - one-way Analysis of Variance
+- [ENVX1002/ENVX2001](https://github.com/ENVX-resources)
 - BIOL2022
 
 
