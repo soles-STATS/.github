@@ -6,11 +6,11 @@ This is the SOLES open educational resources (OER) platfom on GitHub, where we h
 
 ### Templates
 
-- [SOLES reveal.js slide template (Quarto)](https://github.com/usyd-soles-edu/soles-revealjs) | [Preview](https://usyd-soles-edu.github.io/soles-revealjs/#/title-slide)
-- [SOLES assignment template (Quarto)](https://github.com/usyd-soles-edu/soles-assignment-quarto) | [Preview](https://usyd-soles-edu.github.io/soles-assignment/)
-- [SOLES course site template (Quarto)](https://github.com/usyd-soles-edu/soles-handbook-quarto) | 🚧 Under construction 🚧 -- full website functionality
-- SOLES handbook template (Quarto) | 🚧 Under construction 🚧 -- book functionality (ideal for print and pdf)
-- [SOLES `learnr` interactive document template (R Markdown)](https://github.com/usyd-soles-edu/soles-learnr) | [Preview](https://mybinder.org/v2/gh/usyd-soles-edu/soles-learnr/main?urlpath=shiny/tutorial/learnr.Rmd) (might take a while as this is a [Binder](https://mybinder.readthedocs.io/en/latest/howto/speed.html) service)
+- [Reveal.js slide template (Quarto)](https://github.com/usyd-soles-edu/soles-revealjs) | [Preview](https://usyd-soles-edu.github.io/soles-revealjs/#/title-slide)
+- [Assignment template (Quarto)](https://github.com/usyd-soles-edu/soles-assignment-quarto) | [Preview](https://usyd-soles-edu.github.io/soles-assignment/)
+- [Course site template (Quarto)](https://github.com/usyd-soles-edu/soles-handbook-quarto) | 🚧 Under construction 🚧 -- full website functionality
+- Handbook template (Quarto) | 🚧 Under construction 🚧 -- book functionality (ideal for print and pdf)
+- [R Markdown `learnr` interactive document template](https://github.com/usyd-soles-edu/soles-learnr) | [Preview](https://mybinder.org/v2/gh/usyd-soles-edu/soles-learnr/main?urlpath=shiny/tutorial/learnr.Rmd) (might take a while as this is a [Binder](https://mybinder.readthedocs.io/en/latest/howto/speed.html) service)
 
 ### Data Science/Statistics
 🚧 **Under construction** 🚧
