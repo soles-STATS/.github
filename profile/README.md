@@ -31,7 +31,7 @@ This is the SOLES open educational resources (OER) platfom on GitHub, where we h
 
 Most work listed here are licensed under a [Creative Commons Attribution 4.0 International License][cc-by]. **You may share, reuse and adapt these resources without permission. All we ask is for you to give appropriate credit in a single sentence:**
 
-> This work was developed using resources that are available under a [Creative Commons Attribution 4.0 International license](cc-by), made available on the [SOLES Open Educational Resources](https://github.com/usyd-soles-edu) repository.
+> This work was developed using resources that are available under a [Creative Commons Attribution 4.0 International license][cc-by], made available on the [SOLES Open Educational Resources](https://github.com/usyd-soles-edu) repository.
 
 > [!Important]
 > Some resources may be developed under other open licenses, for example the [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) license, or an [LGPL-3.0](https://www.gnu.org/licenses/lgpl-3.0.en.html#license-text) licence for software or code resources. Please be sure to check the licensing documents associated with these resources for appropriate usage. 
