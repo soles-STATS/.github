@@ -1,5 +1,5 @@
 # SOLES OER
-This is the SOLES open educational resources (OER) platfom on GitHub, where we host and highlight open (or open-sourced) teaching and learning resources used within The University of Sydney.
+This is the SOLES open educational resources (OER) platfom on GitHub, where we host and highlight open (or open-sourced) research and learning resources used within The University of Sydney.
 
 > [!Note]
 > Resources are being developed **openly** and may not be complete. **Please read the respository README sections to check on individual progress.**
