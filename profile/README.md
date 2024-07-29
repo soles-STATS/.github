@@ -14,11 +14,24 @@ This is the SOLES open educational resources (OER) platfom on GitHub, where we h
 
 ### Cheatsheets
 🚧 **Under construction** 🚧
+Cheatsheets are quick reference guides that help you remember important functions and commands.
 
-- Boxlplots in R
+#### R
+
+- [importing data into R](https://usyd-soles-edu.github.io/cheatsheet-r-data-import/)
+- [boxplots](https://usyd-soles-edu.github.io/cheatsheet-R-boxplot/) | [scatterplots](https://usyd-soles-edu.github.io/cheatsheet-r-scatterplot/) | [histograms](https://usyd-soles-edu.github.io/cheatsheet-r-histogram/)
+
+#### SPSS
+
+- [boxplots](https://envx-resources.github.io/cheatsheet-spss-boxplot/) | [scatterplots](https://usyd-soles-edu.github.io/cheatsheet-spss-scatterplot/) | histograms
+
+#### Jamovi
+
+- [boxplots](https://usyd-soles-edu.github.io/cheatsheet-jamovi-boxplot/) | [scatterplots](https://usyd-soles-edu.github.io/cheatsheet-jamovi-scatterplot/) | [histograms](https://usyd-soles-edu.github.io/cheatsheet-jamovi-histogram/)
 
 ### Linked organisations
 - [ENVX1002/ENVX2001](https://github.com/ENVX-resources)
+- [BIOL2022](https://github.com/BIOL2022)
 
 
 
