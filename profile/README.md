@@ -12,7 +12,7 @@ This is the SOLES open educational resources (OER) platfom on GitHub, where we h
 - Handbook template (Quarto) | 🚧 Under construction 🚧 -- book functionality (ideal for print and pdf)
 - [R Markdown `learnr` interactive document template](https://github.com/usyd-soles-edu/soles-learnr) | [Preview](https://mybinder.org/v2/gh/usyd-soles-edu/soles-learnr/main?urlpath=shiny/tutorial/learnr.Rmd) (might take a while as this is a [Binder](https://mybinder.readthedocs.io/en/latest/howto/speed.html) service)
 
-### Cheatsheets/Guides
+### Statistics/Data Science Cheatsheets/Guides
 🚧 **Under construction** 🚧
 These are quick reference guides that help you remember important functions and commands. We're still debating on the use of the term "cheatsheet"!
 
