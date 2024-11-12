@@ -1,5 +1,5 @@
 # SOLES OER
-This is the SOLES open educational resources (OER) platfom on GitHub, where we host and highlight open (or open-sourced) research and learning resources used within The University of Sydney.
+This is the SOLES open educational and researcher resources (OER-R) platfom on GitHub, where we host and highlight open (or open-sourced) research and learning resources used within The University of Sydney.
 
 > [!Note]
 > Resources are being developed **openly** and may not be complete. **Please read the respository README sections to check on individual progress.**
@@ -20,6 +20,7 @@ These are quick reference guides that help you remember important functions and 
 
 - [importing data into R](https://usyd-soles-edu.github.io/cheatsheet-r-data-import/)
 - [boxplots](https://usyd-soles-edu.github.io/cheatsheet-R-boxplot/) | [scatterplots](https://usyd-soles-edu.github.io/cheatsheet-r-scatterplot/) | [histograms](https://usyd-soles-edu.github.io/cheatsheet-r-histogram/)
+- [one-sample *t*-test](https://usyd-soles-edu.github.io/cheatsheet-r-ttest/) | [two-sample *t*-test](https://usyd-soles-edu.github.io/cheatsheet-r-two-sample-ttest/) | [anova](https://usyd-soles-edu.github.io/cheatsheet-r-anova/) | [regression](https://usyd-soles-edu.github.io/cheatsheet-r-regression/)
 
 #### SPSS
 
